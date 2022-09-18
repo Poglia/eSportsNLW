@@ -1,2 +1,3 @@
 # eSportsNLW
-default
+
+usado nmp, node, react, hoppscotch, vitejs
